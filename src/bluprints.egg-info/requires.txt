@@ -1,0 +1,4 @@
+msgspec
+regex
+rich
+platformdirs
